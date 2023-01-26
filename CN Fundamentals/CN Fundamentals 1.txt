@@ -1,0 +1,38 @@
+
+
+
+Network - Group or system of interconnected people or items
+
+Computer Network - Computer network connected with each other via wired or wireless medium.
+
+Internet - Internet is network of computer network. / Complex web of interconnected networks.
+
+
+
+packets - Inorder to share data over the network we cannot send big chunks of data. So we divide the data into smaller chunks
+and these smaller chunks are called as packets.
+
+
+Address - Sending message over the system requires destination detaials.The details that uniquely identifies the end system
+is called as its address.
+
+
+Port - Any machine could be running many network applications, inorder to distinguish these apps for receiving messages we
+use ports or port number.
+range of ports - 0 - 2^16 = 65535
+
+0 -1023 - Well known ports.
+1024 - 49152 - Registered Ports.(used by specific,potentially propritery apps/process that are known but not system defined)
+49152 -65535 - Dynamic ports.
+
+Socket - IP adress + Port (more on this later)
+
+
+
+
+Access Network - These are media using which end system connects to the internet.
+
+Network Interface Adapter - It enables a computer to attach to a network. As there
+are different types of netwoks, it acts as single suite to connect to any network
+
+DSL(Digital Subscriber Line) - DSL uses the existing telephones groundwork lines for internet connection, 
